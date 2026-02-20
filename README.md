@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Võ Quốc Bảo
+# 👋 Hi, I'm Võ Quốc Bảo (cyb3rhurr1c4n3)
 
-🎓 **Information Security Student @ University of Information Technology (UIT)** – Year 3  
-🔒 **Offensive Security Enthusiast** | Red Teaming | Penetration Testing | Exploit Development  
-🏆 Active CTF Player | Bug Bounty Enthusiast
+🎓 **Information Security Student @ University of Information Technology (UIT) – Year 3**  
+🔒 **Junior Penetration Tester | Offensive Security & Red Team Enthusiast**
+🏆 **Active CTF Player | Love Doing Project**
 
 ---
 
 ## 🛡️ About Me
 
-I’m passionate about **Offensive Security, Penetration Testing and Red Team operations**.
+I’m passionate about **Offensive Security, Penetration Testing and Red Teaming**.
 
-I continuously sharpen my skills through CTF competitions, hands-on labs, and building my own security tools/scripts.  
+I continuously sharpen my skills through CTF competitions, hands-on labs, building my own security tools/scripts and projects.  
 
 My goal is to **join a professional Red Team** where I can contribute to realistic attack simulations and help organizations strengthen their defenses.
 
