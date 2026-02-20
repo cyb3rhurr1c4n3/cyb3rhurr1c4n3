@@ -16,7 +16,7 @@ I continuously sharpen my skills through CTF competitions, hands-on labs, buildi
 
 My goal is to **join a professional Red Team** where I can contribute to realistic attack simulations and help organizations strengthen their defenses.
 
-I'm here to make the Internet a better and safer place.
+I’m always open to connecting with like-minded security professionals, CTF teams, and mentors. Feel free to reach out — let’s make this world a safer place together.
 
 ---
 
