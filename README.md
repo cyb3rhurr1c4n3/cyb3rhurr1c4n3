@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Võ Quốc Bảo (cyb3rhurr1c4n3)
 
 🎓 **Information Security Student @ University of Information Technology (UIT) – Year 3**  
+
 🔒 **Junior Penetration Tester | Offensive Security & Red Team Enthusiast**
+
 🏆 **Active CTF Player | Love Doing Project**
 
 ---
