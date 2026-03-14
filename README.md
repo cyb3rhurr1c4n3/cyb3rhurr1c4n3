@@ -26,7 +26,7 @@ I’m always open to connecting with like-minded security professionals, CTF tea
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyb3rhurr1c4n3)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cyb3rhurr1c4n3)
+[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=githubpages&logoColor=white)](https://cyb3rhurr1c4n3.github.io/cyb3rhurr1c4n3-blog/)
 
 📫 **Email:** vobao8682@gmail.com
 
