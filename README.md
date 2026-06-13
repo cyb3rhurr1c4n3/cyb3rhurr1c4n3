@@ -11,8 +11,7 @@ I specialize in offensive security with a focus on red team operations, offensiv
 
 My work centers on building and researching offensive tooling, with an emphasis on understanding detection mechanics to stay ahead of modern defenses.
 
-I'm interested in roles at the intersection of Red Team Operations
-and Red Team R&D.
+I'm interested in roles at the intersection of Red Team Operations and Red Team R&D.
 
 ---
 
