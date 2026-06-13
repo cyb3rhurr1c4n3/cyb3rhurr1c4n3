@@ -1,7 +1,7 @@
 # Hi, I'm Võ Quốc Bảo (cyb3rhurr1c4n3)
 
-🎓 **Information Security - Final Year @ UIT**
-🔴 **Offensive Security | Red Team Operator, Researcher & Developer**
+🎓 **Information Security - Final Year @ UIT**  
+🔴 **Offensive Security | Red Team Operator, Researcher & Developer**  
 
 ---
 
