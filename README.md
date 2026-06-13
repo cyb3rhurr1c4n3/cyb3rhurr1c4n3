@@ -7,11 +7,11 @@
 
 ## About Me
 
-I specialize in offensive security with a focus on red team operations, offensive tools development, and adversarial simulation.
+I specialize in offensive security across three dimensions: operating in red team engagements, developing offensive tooling, and researching the mechanics that separate effective techniques from detected ones.
 
-My work centers on building and researching offensive tooling, with an emphasis on understanding detection mechanics to stay ahead of modern defenses.
+My work sits at the intersection of execution and research - designing attack chains, building the tools that run them, and understanding why defenses succeed or fail at the telemetry level.
 
-I'm interested in roles at the intersection of Red Team Operations and Red Team R&D.
+I'm drawn to roles where operations and R&D inform each other.
 
 ---
 
